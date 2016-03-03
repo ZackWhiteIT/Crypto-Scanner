@@ -22,6 +22,7 @@ A Python utility to scan computers for crypto virus infections, such as Locky
     Website:\t http://zackwhiteit.com
     Twitter:\t @ZackWhiteIT
 
+# MIT License
 This software is protected by copyright under the MIT License (MIT).
 
 Copyright (c) 2016 David Mize and Zack White
