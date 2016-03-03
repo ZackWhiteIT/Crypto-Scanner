@@ -5,10 +5,10 @@ A Python utility to scan computers for crypto virus infections, such as Locky
     python crypto_scanner.py [options] [> output.txt]
 
 # Options:
-    -dir      Set the root directory or UNC path of the scan\t\t\t      Default: -dir=C:\\Users
+    -dir    Set the root directory or UNC path of the scan          Default: -dir=C:\Users
     -help   Software information
-    -s         Shutdown machine after scan if a threat is detected\t\t Default: False
-    -v         Verbose logging\t\t\t\t\t\t\t\t\t\t\tDefault: False
+    -s      Shutdown machine after scan if a threat is detected     Default: False
+    -v      Verbose logging                                         Default: False
     
     For example, to set the directory to the C: drive, enable verbose logging, and output to report.txt, enter:
     python crypto_scanner.py -dir=C:\ -v > report.txt
@@ -19,8 +19,8 @@ A Python utility to scan computers for crypto virus infections, such as Locky
     to prevent further infection if the user chooses.
 
 # Contact Information:
-    Website:\t http://zackwhiteit.com
-    Twitter:\t @ZackWhiteIT
+    Website: http://zackwhiteit.com
+    Twitter: @ZackWhiteIT
 
 # MIT License
 This software is protected by copyright under the MIT License (MIT).
